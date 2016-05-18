@@ -1,4 +1,4 @@
-# HTML + SASS + TypeScript development environment
+# HTML + SASS + TypeScript + AngularJS development environment
 This presents newest and standard HTML + SASS + TypeScript development environment.  
 
 # Description
